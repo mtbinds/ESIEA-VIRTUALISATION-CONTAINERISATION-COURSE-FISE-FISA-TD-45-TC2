@@ -77,7 +77,7 @@ Ici, vous serez livré à vous même (à travers la documentation des différent
 
 Réferez vous à la [documentation officielle de l'image mongo](https://hub.docker.com/_/mongo) pour découvrir comment la configurer. (L'objectif est de vous forcer à chercher les informations de vous même, pour les jours où vous devrez vous débrouiller seul):
 
-- Vous utiliserez l'image `mongo:3.2`
+- Vous utiliserez l'image `mongo`
 - Le container doit s'appeler `lab-docker-mongo`
 - Persister les données `en local` (à l'aide de Volumes: Docker volume ou mountpoint, à votre convenance).
 - Configurer le `init root user et password`:
