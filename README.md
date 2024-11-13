@@ -16,7 +16,7 @@
   - [Lab 03 (Noté)](./DOCKER/LABS_DEMOS/LAB_03_DOCKER_NETWORKS/README.md)
   - [Lab 04](./DOCKER/LABS_DEMOS/LAB_04_DOCKER_IMAGES/README.md)
     
-    - [Indication pour le Lab](./DOCKER/LABS_DEMOS/LAB_04_DOCKER_IMAGES/INDICATIONS.md)  
+    - [Indications pour le Lab](./DOCKER/LABS_DEMOS/LAB_04_DOCKER_IMAGES/INDICATIONS.md)  
 
 Coming Soon
 
